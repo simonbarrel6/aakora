@@ -26,7 +26,7 @@ const logger = winston.createLogger({
 });
 
 // Bot configuration
-const BOT_TOKEN = '7495777352:AAHTTMWC3TonZFK2eeDY8tZ-vCY95W5BdjU';
+const BOT_TOKEN = '7754167221:AAEvaVemP_SNyiZ-wKiWwMi4VuodF9kpaXk';
 const API_HOST = 'mobile-pre.at.dz';
 
 // Initialize bot with enhanced configuration
